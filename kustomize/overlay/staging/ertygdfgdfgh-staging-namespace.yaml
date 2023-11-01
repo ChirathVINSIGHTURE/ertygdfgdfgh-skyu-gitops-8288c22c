@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: ertygdfgdfgh-staging
+  labels:
+    environment-id: env_c55a8cb9-bead-4127-b319-ad54906e91dc
+    project-id: project_6a2ce617-bb47-41e1-8c1f-719cf7a76759
+    project-name: ertygdfgdfgh
+    environment-name: staging
+    organization-id: org_a21afaea-d3ba-4d9b-8fc2-b49b079b478a

@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: ertygdfgdfgh-dev
+  labels:
+    environment-id: env_cbd2053c-3a05-4d7e-a8a5-7c4227965624
+    project-id: project_6a2ce617-bb47-41e1-8c1f-719cf7a76759
+    project-name: ertygdfgdfgh
+    environment-name: dev
+    organization-id: org_a21afaea-d3ba-4d9b-8fc2-b49b079b478a
